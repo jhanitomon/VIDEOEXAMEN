@@ -1,0 +1,133 @@
+CANTIDAD DE REGISTROS DE CADA PEPTIDO
+      3 "
+   1484 "[C-Terminus: AMD
+      9 "[N-Terminus: 12-GDA
+      2 "[N-Terminus: 2
+      8 "[N-Terminus: 3MeACl
+      2 "[N-Terminus: 6-ME-C8
+   1736 "[N-Terminus: ACT
+     60 "[N-Terminus: AD
+      3 "[N-Terminus: Abz
+     15 "[N-Terminus: BZO
+      3 "[N-Terminus: BZY
+     27 "[N-Terminus: C10
+      6 "[N-Terminus: C11:1
+     36 "[N-Terminus: C12
+    122 "[N-Terminus: C14
+    229 "[N-Terminus: C16
+      4 "[N-Terminus: C16OH
+     16 "[N-Terminus: C18
+     12 "[N-Terminus: C20:1
+      6 "[N-Terminus: C5
+      6 "[N-Terminus: C6
+     48 "[N-Terminus: C8
+      4 "[N-Terminus: C9
+      7 "[N-Terminus: Ch
+      5 "[N-Terminus: DNS
+      5 "[N-Terminus: DiMIQ
+      6 "[N-Terminus: FMOC
+     32 "[N-Terminus: FOR
+      5 "[N-Terminus: Fluo
+      6 "[N-Terminus: GUAN
+      4 "[N-Terminus: NC12
+      1 "[N-Terminus: NC12-NH
+      2 "[N-Terminus: NC4
+      1 "[N-Terminus: PEG
+      5 "[N-Terminus: SUC
+      3 "[N-Terminus: TOS
+      4 "[Unknown modification: Contains three disulfide bonds 8-37
+      8 "[Unknown modification: Maturation of thiazole and oxazole containing antibiotics involves the enzymic condensation of a Cys
+     16 "[Unknown modification: Monoubiquitination of C-terminus gives a specific tag for epigenetic transcriptional repression. Following DNA double-strand breaks (DSBs)
+      3 "[Unknown modification: Odorranain-NR has an intramolecular disulfide-bridged hexapeptide segment
+      3 "[Unknown modification: The C-terminal Ser is modified by attachment to a siderophore similar to enterobactin
+     10 "[Unknown modification: There are one didehydrobutyrine (Dhb) at T16
+     68 "[disulfide
+     16 "[unknown_modification: UCBB
+      4 "[unknown_modification: UCSB
+    212 C-Terminal
+    304 [C-Terminal Amidation]
+    934 [C-Terminal]
+  13623 [C-Terminus: AMD]
+      2 [C-Terminus: AM]
+      8 [C-Terminus: BY]
+     17 [C-Terminus: Ome]
+     12 [C-Terminus: PEG2-AMD]
+      2 [C-Terminus: Propil-AMD]
+     32 [N-Terminus: ACT]
+     19 [N-Terminus: C12]
+     14 [N-Terminus: C16]
+      6 [N-Terminus: C18]
+      4 [N-Terminus: C4]
+     13 [N-Terminus: DMUEA]
+     19 [N-Terminus: DNS]
+     96 [N-Terminus: DiMIQ]
+     34 [N-Terminus: FOR]
+      8 [N-Terminus: HDDA]
+      7 [N-Terminus: HTDA]
+      8 [Unknown modification: Amidation on Leu-18 is required to adopt an alpha-helical conformation in a hydrophobic solvent. The absence of amidation leads to a decrease in cationicity leading to a more than a 10-fold decrease in antimicrobial activities.]
+      4 [Unknown modification: C-termianal amidation.]
+      2 [Unknown modification: Contains a choline moiety at the N-terminus and a tenuazonic acid moiety at the C-terminus.]
+     19 [Unknown modification: Contains disulfide bond.]
+     19 [Unknown modification: Contains four disulfide bonds 2-19; 5-8; 6-15; 9-18.]
+     11 [Unknown modification: Contains four disulfide bonds 4-25; 10-33; 14-35; 21-38.]
+      3 [Unknown modification: Contains one disulfide bond 14-20.]
+      4 [Unknown modification: Contains one disulfide bond 15-21.]
+      6 [Unknown modification: Contains one disulfide bond 18-24.]
+      1 [Unknown modification: Contains one disulfide bond 23-28.]
+      2 [Unknown modification: Contains one disulfide bond 24-30.]
+     40 [Unknown modification: Contains one disulfide bond 27-33.]
+      2 [Unknown modification: Contains one disulfide bond 3-20.]
+     16 [Unknown modification: Contains one disulfide bond 31-37.]
+      4 [Unknown modification: Contains one disulfide bond 4-10.]
+     18 [Unknown modification: Contains one disulfide bond.]
+      1 [Unknown modification: Contains one disulfide bonds 18-24 (By similarity).]
+      2 [Unknown modification: Contains one disulfide bonds 19-25 (By similarity).]
+      2 [Unknown modification: Contains one disulfide bonds 23-28 (By similarity).]
+      5 [Unknown modification: Contains one disulfide bridge.]
+     10 [Unknown modification: Contains three disulfide bonds (By similarity).]
+      5 [Unknown modification: Contains three disulfide bonds 11-40; 18-33; 23-41.]
+      2 [Unknown modification: Contains three disulfide bonds 2-19; 9-23;]
+      4 [Unknown modification: Contains three disulfide bonds 2-21; 7-29; 11-31.]
+      1 [Unknown modification: Contains three disulfide bonds 23-37; 26-44; 38-45.]
+      3 [Unknown modification: Contains three disulfide bonds 3-29; 8-23; 13-30.]
+     11 [Unknown modification: Contains three disulfide bonds 3-30; 16-36; 20-38.]
+      4 [Unknown modification: Contains three disulfide bonds 4-76; 7-70; 35-45.]
+      2 [Unknown modification: Contains three disulfide bonds 6-28; 13-34; 18-35.]
+      6 [Unknown modification: Contains three disulfide bonds 8-36; 15-30; 20-37.]
+      1 [Unknown modification: Contains three disulfide bonds 9-37; 16-30; 20-38.]
+      4 [Unknown modification: Contains three disulfide bonds.]
+     25 [Unknown modification: Contains two disulfide bonds (By similarity).]
+      1 [Unknown modification: Contains two disulfide bonds 4-20; 10-16.]
+      2 [Unknown modification: Contains two disulfide bonds 6-15; 8-13 and Valine amide at V16.]
+     22 [Unknown modification: Contains two disulfide bonds. (By similarity)]
+      7 [Unknown modification: Contains two disulfide bonds. Up to two of the methionines may be oxidized to methionine sulfoxides.]
+      4 [Unknown modification: Isoglutamyl glycine isopeptide between G1 and E8.]
+      3 [Unknown modification: Kalata-B1 is a cyclic peptide which contains three disulfide bonds 5-19; 11-21; 14-26.]
+      6 [Unknown modification: Leucine amide at L9.]
+      4 [Unknown modification: Leucine amide at position 10.]
+      2 [Unknown modification: Leucine amide at position 13.]
+      1 [Unknown modification: N-terminus is a pyruglutamyl.]
+      6 [Unknown modification: One disulfide bond (C23-C29) and Cleavage on pair of basic residues.]
+      3 [Unknown modification: Phenylalanine amide at F19.]
+      8 [Unknown modification: Problely contains one disulfide bond 24-30. ]
+      2 [Unknown modification: Problely contains one disulfide bond 27-33. ]
+      6 [Unknown modification: Problely contains three disulfide bonds 3-34; 20-39; 24-41.]
+      9 [Unknown modification: Proline amide at P39.]
+      3 [Unknown modification: The N-terminus is blocked.]
+      2 [Unknown modification: This is a cyclic peptide which contains three disulfide bonds 1-17; 5-19; 10-24.]
+      5 [Unknown modification: This is a cyclic peptide which contains three disulfide bonds 5-21; 9-23; 14-28.]
+      6 [Unknown modification: This is a cyclic peptide which may contain three disulfide bonds 4-21; 8-23; 13-28.]
+      2 [Unknown modification: adopt an alpha helical conformation which can disrupt bacterial membranes. Each caerin displays a different antimicrobial specificity.]
+      6 [Unknown modification: contains one disulfide bond 14-20.]
+      8 [Unknown modification: contains one disulfide bond 15-21. Has hemolytic activity against rabbit erythrocytes.]
+      6 [Unknown modification: contains one disulfide bond 27-33.]
+      2 [Unknown modification: contains one disulfide bond 31-37.]
+      2 [Unknown modification: contains one disulfide bond 40-46.]
+      4 [Unknown modification: contains one disulfide bonds.]
+   1217 [Unusual Acid]
+  29098 []
+   1126 [disulfide]
+     19 [unknown_modification: UCBB]
+     52 [unknown_modification: UCSB]
+     33 [unknown_modification: UCSS1b]
+      1 modifications
